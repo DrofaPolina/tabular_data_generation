@@ -1,8 +1,8 @@
 
 from setuptools import find_packages, setup
 setup(
-    name='tabular_data_generation',
-    packages=find_packages(include=['tabular_data_generation']),
+    name='tabular_data_generation_0',
+    packages=find_packages(include=['tabular_data_generation_0']),
     version='0.1.0',
     description='Table Data Generation library',
     author='Me',

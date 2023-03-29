@@ -1,0 +1,10 @@
+README.md
+setup.py
+tabular_data_generation_0/__init__.py
+tabular_data_generation_0/generator.py
+tabular_data_generation_0/main.py
+tabular_data_generation_0.egg-info/PKG-INFO
+tabular_data_generation_0.egg-info/SOURCES.txt
+tabular_data_generation_0.egg-info/dependency_links.txt
+tabular_data_generation_0.egg-info/requires.txt
+tabular_data_generation_0.egg-info/top_level.txt
