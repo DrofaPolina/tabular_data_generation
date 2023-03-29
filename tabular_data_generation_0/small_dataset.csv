@@ -1,0 +1,41 @@
+,loan_amnt,term,int_rate,installment,grade,sub_grade,emp_title,emp_length,home_ownership,annual_inc,verification_status,issue_d,loan_status,purpose,title,dti,earliest_cr_line,open_acc,pub_rec,revol_bal,revol_util,total_acc,initial_list_status,application_type,mort_acc,pub_rec_bankruptcies,address
+0,35000.0, 36 months,19.78,175.72,E,A2,facility technician,10+ years,MORTGAGE,45921.67,Verified,May-2013,Fully Paid,debt_consolidation,Vacation,12.03,Mar-2001,20.0,0.0,9313.0,4.9,30.0,f,INDIVIDUAL,4.0,0.0,"9561 Villa Coves
+Haleyfurt, DE 05113"
+1,35000.0, 36 months,10.98,681.9,G,G2,Pullman Regional Hospital,10+ years,RENT,21000.0,Not Verified,Dec-2015,Fully Paid,debt_consolidation,Home buying,1.36,Jun-1995,11.0,0.0,15393.0,30.8,23.0,f,INDIVIDUAL,0.0,1.0,"976 Smith Bridge
+West Michael, NE 30723"
+2,22442.0, 36 months,16.48,289.74,C,B5,Home attendant ,6 years,MORTGAGE,21000.0,Source Verified,Oct-2014,Fully Paid,debt_consolidation,Other,10.1,Jan-2006,21.0,0.0,7264.0,38.6,24.0,f,INDIVIDUAL,1.0,0.0,"76010 Houston Haven
+Port Keithburgh, MI 86630"
+3,16704.0, 36 months,16.05,639.27,E,C1,Cracker Barrel Old Country Store,10+ years,MORTGAGE,57566.48,Not Verified,Jan-2015,Fully Paid,debt_consolidation,Debt Consolidation,30.18,Jun-2001,26.0,0.0,17374.0,5.5,8.0,f,INDIVIDUAL,3.0,0.0,"1741 Jackson Street Suite 615
+New Jenny, MA 70466"
+4,35000.0, 60 months,10.68,410.17,B,D3,HR Specialist,7 years,MORTGAGE,43940.19,Not Verified,Apr-2015,Fully Paid,debt_consolidation,Debt consolidation,27.92,Jan-2005,11.0,0.0,24929.0,39.1,16.0,w,INDIVIDUAL,0.0,0.0,"85164 Michael Overpass Suite 653
+Lancechester, SD 30723"
+5,25321.0, 36 months,13.07,868.45,B,B1,Bookkeeper,8 years,MORTGAGE,21000.0,Source Verified,May-2016,Charged Off,debt_consolidation,Car financing,24.88,Oct-2005,8.0,0.0,19231.0,24.9,11.0,f,INDIVIDUAL,0.0,0.0,"11629 Sean Hills Suite 614
+Stevenfort, HI 30723"
+6,35000.0, 36 months,21.6,117.14,A,A5,Vegas.com,10+ years,MORTGAGE,36526.33,Source Verified,Nov-2014,Charged Off,debt_consolidation,Debt consolidation,28.91,Feb-2002,15.0,0.0,18778.0,43.2,38.0,w,INDIVIDUAL,1.0,0.0,"578 Smith View Suite 106
+Miguelfort, IN 29597"
+7,35000.0, 36 months,22.33,540.28,A,B3,Armored Car Guard,8 years,OWN,35387.92,Verified,Jul-2014,Fully Paid,vacation,Debt Consolidation,20.4,Dec-2003,9.0,1.0,53260.0,35.0,8.0,f,INDIVIDUAL,0.0,0.0,"519 Dillon Lights Suite 839
+Meghanstad, HI 48052"
+8,35000.0, 60 months,23.55,482.48,E,D3,Stocker,1 year,RENT,21000.0,Not Verified,Jun-2013,Fully Paid,credit_card,Debt consolidation,20.69,Mar-2000,4.0,0.0,17364.0,53.1,15.0,f,INDIVIDUAL,4.0,0.0,"4173 David Extension
+West Beckyfort, MS 70466"
+9,35000.0, 36 months,7.36,320.13,B,E5,Mate,6 years,MORTGAGE,28174.21,Not Verified,May-2014,Fully Paid,debt_consolidation,Debt consolidation,12.88,Aug-2003,9.0,0.0,29125.0,4.9,22.0,f,INDIVIDUAL,0.0,0.0,"2528 Herrera Track Suite 897
+Savannahburgh, NY 70466"
+10,22181.0, 60 months,19.03,224.05,B,C2,Bartender,10+ years,OWN,37273.18,Verified,Feb-2015,Fully Paid,credit_card,Debt consolidation,2.57,Dec-2002,13.0,1.0,77404.0,20.4,8.0,w,INDIVIDUAL,0.0,0.0,"679 Luna Roads
+Greggshire, VA 11650"
+11,21336.0, 36 months,11.24,317.93,D,A4,"Medtronic, Inc.",6 years,MORTGAGE,89401.87,Verified,Mar-2015,Fully Paid,debt_consolidation,Debt consolidation,20.5,Dec-2004,4.0,0.0,551.0,4.9,8.0,f,INDIVIDUAL,0.0,0.0,"00014 Rocha Walk
+Jacksonstad, MD 93700"
+12,21004.0, 60 months,25.31,679.1,C,D1,Registered Nurse,8 years,MORTGAGE,67495.36,Source Verified,Jul-2015,Fully Paid,credit_card,Debt consolidation,32.76,May-1990,7.0,0.0,9592.0,7.0,17.0,w,INDIVIDUAL,0.0,0.0,"610 Joshua Haven Suite 591
+Johnsonside, MN 70466"
+13,22375.0, 36 months,23.76,497.92,D,D3,Branch Manager,10+ years,MORTGAGE,21000.0,Verified,Jul-2015,Fully Paid,debt_consolidation,Vacation,25.39,Dec-2010,17.0,0.0,551.0,34.1,16.0,w,INDIVIDUAL,0.0,0.0,"57769 John Via Suite 037
+Stephaniehaven, AR 48052"
+14,35000.0, 60 months,18.6,117.14,B,A2,facility technician,9 years,MORTGAGE,21000.0,Not Verified,Jun-2014,Fully Paid,other,Debt consolidation,37.26,Mar-2001,6.0,0.0,31910.0,34.5,11.0,w,INDIVIDUAL,0.0,0.0,"0174 Michelle Gateway
+Mendozaberg, OK 22690"
+15,35000.0, 36 months,5.32,450.89,B,B3,Rn,3 years,RENT,86092.09,Source Verified,Mar-2013,Fully Paid,credit_card,Other,14.82,Jun-1994,11.0,0.0,4683.0,26.3,8.0,w,INDIVIDUAL,2.0,0.0,"25722 Horn Harbor
+Lauraville, VA 30723"
+16,21221.0, 36 months,23.77,1207.13,D,E1,DESIGNER,4 years,MORTGAGE,21000.0,Not Verified,Apr-2013,Fully Paid,credit_card,Debt Consolidation,37.26,Feb-2002,17.0,0.0,551.0,4.9,41.0,f,INDIVIDUAL,0.0,1.0,"679 Luna Roads
+Greggshire, VA 11650"
+17,22719.0, 36 months,8.82,117.14,C,A2,Ultrasound Technologist,10+ years,RENT,21213.4,Not Verified,Nov-2013,Fully Paid,debt_consolidation,Debt consolidation,27.59,Oct-2000,11.0,0.0,12770.0,4.9,8.0,f,INDIVIDUAL,0.0,0.0,"PSC 5108, Box 2953
+APO AP 05113"
+18,30568.0, 60 months,21.32,171.39,B,C2,Armored Car Guard,10+ years,RENT,73237.89,Not Verified,Oct-2012,Fully Paid,debt_consolidation,Vacation,16.85,Sep-2003,4.0,0.0,551.0,30.7,8.0,w,INDIVIDUAL,0.0,1.0,"44296 Victor Plaza Apt. 108
+Kimhaven, NM 30723"
+19,33157.0, 60 months,18.87,1130.79,B,E1,Program Manager,< 1 year,MORTGAGE,45422.03,Verified,Dec-2013,Fully Paid,debt_consolidation,Debt consolidation,25.94,Oct-2000,22.0,0.0,22119.0,58.5,26.0,f,INDIVIDUAL,0.0,0.0,"68278 Henderson Junction Suite 802
+Port Georgetown, OK 29597"
