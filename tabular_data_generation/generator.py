@@ -34,7 +34,7 @@ class Generator:
         chunk = self.source_data[first:last]
         disc_cols = chunk.select_dtypes(include=['object', 'datetime64']).columns
         self.model.fit(chunk, disc_cols)
-        new_data = self.model.sample(num_rows=chunk_size * rate)
+        new_data = self.model.sample(chunk_size * rate)
         new_data = pd.concat([chunk, new_data], axis=0)
         new_data = new_data.sort_values(by=self.datecolumn)
 
