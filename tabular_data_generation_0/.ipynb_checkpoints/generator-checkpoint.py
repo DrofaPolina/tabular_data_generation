@@ -11,7 +11,7 @@ class Generator:
         self.source_data = None
 
     def generate_rounds(self, n_rounds=10, rate=1):
-        strip_path = self.in_dir.split('/')[-1].rstrip('.csv')
+        strip_path = self.in_dir.rstrip('.csv')
         self.source_data = pd.read_csv(self.in_dir)
         if self.datecolumn:
             self.source_data[self.datecolumn] = pd.to_datetime(self.source_data[self.datecolumn])
@@ -38,6 +38,6 @@ class Generator:
         new_data = pd.concat([chunk, new_data], axis=0)
         new_data = new_data.sort_values(by=self.datecolumn)
 
-        chunk_path = f'{self.out_dir}/{strip_path}_round{num_round}.csv'
+        chunk_path = f'./{self.out_dir}/{strip_path}_round{num_round}.csv'
         new_data.to_csv(chunk_path)
 
