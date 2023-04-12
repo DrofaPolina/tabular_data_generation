@@ -1,8 +1,8 @@
 
 from setuptools import find_packages, setup
 setup(
-    name='tabular_data_generation_0',
-    packages=find_packages(include=['tabular_data_generation_0']),
+    name='ctgan_data_generation_BB',
+    packages=find_packages(include=['ctgan_data_generation_BB']),
     version='0.1.0',
     description='Table Data Generation library',
     author='Me',

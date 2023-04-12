@@ -1,0 +1,1 @@
+from ctgan_data_generation_BB.generator import Generator
